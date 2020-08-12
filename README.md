@@ -7,3 +7,6 @@
 3. 관계
 
 5. 식별자
+
+6. Mysql 다운로드 URL 
+ - https://dog-developers.tistory.com/20
