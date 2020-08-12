@@ -1,3 +1,16 @@
-안녕하세요
-테스트
-git 어렵넹
+1. cmd를 켠다.
+2. 작업폴더로 이동한다. (cd 명령어 사용)
+3. git config --global user.name id (trapalagr3)
+4. git config --global user.email email (taeyoung831@gist.ac.kr)
+5. git clone 해당 깃허브 repository url(https://github.com/trapalagr3/sql_summary.git)
+ -> repository 이름에 해당하는 폴더가 생성됨. 여기서는 sql_summary
+6. 해당 repository 폴더로 이동 cd ./sql_summary
+7. 텍스트나 코드 파일을 작업해서 PC에 저장
+8. git add 파일명(ex. document.txt)
+9. git commit -m "Add Text File[텍스트 파일명]" : 파일의 스냅샷을 찍어 이전버젼으로
+복구시킬 때 필요?
+ ex.) git comit -m "Add Text File[document.txt]"
+10. git push  : github 웹상에서 파일 올리기
+
+
+ 
